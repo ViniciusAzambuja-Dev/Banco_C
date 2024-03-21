@@ -1,1 +1,1 @@
-Desenvolvi esse programa durante meu 2º período da faculdade..
+Desenvolvi esse código durante meu 2º período da faculdade..
